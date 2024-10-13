@@ -1,0 +1,1 @@
+web: gunicorn zohomail2:app
